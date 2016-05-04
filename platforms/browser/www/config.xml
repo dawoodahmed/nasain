@@ -14,7 +14,7 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
-    <gap:plugin name="com.dawsonloudon.videoplayer" source="npm" version="1.0.0" />
+    <gap:plugin name="com.dawsonloudon.videoplayer" version="1.0.0" />
     <icon src="icon.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
